@@ -13,6 +13,11 @@ Welcome to Open Source Energy Features's documentation!
    authors
    history
 
+The module
+==================
+.. autoclass:: osef
+    :members:
+
 Indices and tables
 ==================
 * :ref:`genindex`
